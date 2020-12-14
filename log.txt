@@ -199,3 +199,4 @@
 0677. 📚 docs: add API usage examples
 0022. 📚 docs: document token refresh logic
 0292. 📚 docs: clarify environment setup
+0670. ✨ feat: add export to CSV option
