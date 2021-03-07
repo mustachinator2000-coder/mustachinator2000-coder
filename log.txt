@@ -210,3 +210,4 @@
 0169. 📚 docs: add API usage examples
 0301. 🎨 style: apply consistent indentation
 0262. 🎨 style: remove trailing whitespace
+0412. ✅ test: increase coverage on auth module
