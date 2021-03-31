@@ -211,3 +211,4 @@
 0301. 🎨 style: apply consistent indentation
 0262. 🎨 style: remove trailing whitespace
 0412. ✅ test: increase coverage on auth module
+0244. ✨ feat: add export to CSV option
