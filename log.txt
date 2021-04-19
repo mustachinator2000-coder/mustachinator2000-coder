@@ -213,3 +213,4 @@
 0412. ✅ test: increase coverage on auth module
 0244. ✨ feat: add export to CSV option
 0640. ♻️ chore: bump dependencies
+0949. 📚 docs: write FAQ section
