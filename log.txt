@@ -214,3 +214,4 @@
 0244. ✨ feat: add export to CSV option
 0640. ♻️ chore: bump dependencies
 0949. 📚 docs: write FAQ section
+0150. 🎨 style: remove trailing whitespace
