@@ -215,3 +215,4 @@
 0640. ♻️ chore: bump dependencies
 0949. 📚 docs: write FAQ section
 0150. 🎨 style: remove trailing whitespace
+0480. ♻️ chore: add GitHub actions badge
