@@ -217,3 +217,4 @@
 0150. 🎨 style: remove trailing whitespace
 0480. ♻️ chore: add GitHub actions badge
 0313. 🎨 style: apply consistent indentation
+0871. ✅ test: add integration test for /submit endpoint
