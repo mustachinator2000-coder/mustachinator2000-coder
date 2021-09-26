@@ -231,3 +231,4 @@
 0209. ✨ feat: implement quiz timer feature
 0688. 🚀 perf: reduce image load time
 0510. 🎨 style: rename variables for clarity
+0483. 📚 docs: update README with setup steps
