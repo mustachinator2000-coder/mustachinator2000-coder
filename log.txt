@@ -240,3 +240,4 @@
 0155. ✨ feat: create admin dashboard
 0767. 🔧 refactor: remove redundant code blocks
 0527. 🎨 style: remove trailing whitespace
+0517. ✅ test: mock database connection in test suite
