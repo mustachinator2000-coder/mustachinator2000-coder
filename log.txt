@@ -239,3 +239,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0155. ✨ feat: create admin dashboard
 0767. 🔧 refactor: remove redundant code blocks
+0527. 🎨 style: remove trailing whitespace
