@@ -246,3 +246,4 @@
 0079. 🐛 fix: correct typo in registration form
 0391. 🐛 fix: fix null pointer exception on login
 0547. 📚 docs: write FAQ section
+0487. 🎨 style: reformat files with black
