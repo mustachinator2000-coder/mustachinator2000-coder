@@ -266,3 +266,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0003. ✅ test: increase coverage on auth module
 0824. 🚀 perf: lazy-load components
+0749. ✨ feat: support email verification
