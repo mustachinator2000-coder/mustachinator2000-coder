@@ -272,3 +272,4 @@
 0227. ✅ test: test user registration edge cases
 0918. ✨ feat: enable dark mode toggle
 0210. 🎨 style: apply consistent indentation
+0925. ✨ feat: add export to CSV option
