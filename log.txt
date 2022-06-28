@@ -274,3 +274,4 @@
 0210. 🎨 style: apply consistent indentation
 0925. ✨ feat: add export to CSV option
 0031. 📚 docs: document token refresh logic
+0899. 🚀 perf: cache repeated calculations
