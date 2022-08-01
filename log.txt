@@ -276,3 +276,4 @@
 0031. 📚 docs: document token refresh logic
 0899. 🚀 perf: cache repeated calculations
 0583. ✅ test: increase coverage on auth module
+0653. 🐛 fix: prevent crash on empty input
