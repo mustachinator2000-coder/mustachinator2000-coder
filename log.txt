@@ -284,3 +284,4 @@
 0743. 🎨 style: apply consistent indentation
 0582. ✨ feat: add export to CSV option
 0922. 📚 docs: write FAQ section
+0702. ✨ feat: add user authentication
