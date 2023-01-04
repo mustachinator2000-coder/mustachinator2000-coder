@@ -291,3 +291,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0289. 🐛 fix: resolve issue with date parsing
 0336. ✨ feat: add export to CSV option
+0651. ✨ feat: enable dark mode toggle
