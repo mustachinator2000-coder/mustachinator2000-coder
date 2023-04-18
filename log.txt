@@ -304,3 +304,4 @@
 0632. 🎨 style: remove trailing whitespace
 0493. ✨ feat: add user authentication
 0305. ✨ feat: enable dark mode toggle
+0661. ✅ test: add integration test for /submit endpoint
