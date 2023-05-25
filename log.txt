@@ -312,3 +312,4 @@
 0908. ♻️ chore: bump dependencies
 0070. ✨ feat: implement quiz timer feature
 0014. 🔧 refactor: remove redundant code blocks
+0286. ✅ test: mock database connection in test suite
