@@ -316,3 +316,4 @@
 0797. 📚 docs: add API usage examples
 0757. 🔧 refactor: remove redundant code blocks
 0085. ✨ feat: support email verification
+0021. ✨ feat: support email verification
