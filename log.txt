@@ -318,3 +318,4 @@
 0085. ✨ feat: support email verification
 0021. ✨ feat: support email verification
 0192. ✨ feat: enable dark mode toggle
+0323. 📚 docs: clarify environment setup
