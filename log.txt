@@ -320,3 +320,4 @@
 0192. ✨ feat: enable dark mode toggle
 0323. 📚 docs: clarify environment setup
 0266. 🔧 refactor: remove redundant code blocks
+0039. ✅ test: add integration test for /submit endpoint
