@@ -332,3 +332,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0447. ♻️ chore: bump dependencies
 0607. 🐛 fix: prevent crash on empty input
+0788. 📚 docs: add API usage examples
