@@ -333,3 +333,4 @@
 0447. ♻️ chore: bump dependencies
 0607. 🐛 fix: prevent crash on empty input
 0788. 📚 docs: add API usage examples
+0780. 📚 docs: add API usage examples
