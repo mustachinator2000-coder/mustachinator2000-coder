@@ -334,3 +334,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0788. 📚 docs: add API usage examples
 0780. 📚 docs: add API usage examples
+0561. 📚 docs: write FAQ section
