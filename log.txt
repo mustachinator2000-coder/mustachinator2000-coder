@@ -336,3 +336,4 @@
 0780. 📚 docs: add API usage examples
 0561. 📚 docs: write FAQ section
 0098. 🎨 style: rename variables for clarity
+0379. ✨ feat: support email verification
