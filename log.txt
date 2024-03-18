@@ -340,3 +340,4 @@
 0516. ✅ test: add unit test for quiz service
 0526. ✨ feat: add user authentication
 0789. ✨ feat: create admin dashboard
+0944. ✨ feat: add user authentication
