@@ -343,3 +343,4 @@
 0944. ✨ feat: add user authentication
 0383. 🐛 fix: fix broken CSS in mobile view
 0896. 🚀 perf: reduce image load time
+0504. 📚 docs: document token refresh logic
