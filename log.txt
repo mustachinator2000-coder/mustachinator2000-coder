@@ -358,3 +358,4 @@
 0851. ✅ test: mock database connection in test suite
 0052. 🎨 style: standardize quote style
 0523. ♻️ chore: bump dependencies
+0790. 📚 docs: write FAQ section
