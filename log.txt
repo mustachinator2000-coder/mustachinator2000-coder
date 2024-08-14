@@ -359,3 +359,4 @@
 0052. 🎨 style: standardize quote style
 0523. ♻️ chore: bump dependencies
 0790. 📚 docs: write FAQ section
+0406. ✨ feat: add export to CSV option
