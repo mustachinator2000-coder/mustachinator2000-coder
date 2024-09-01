@@ -362,3 +362,4 @@
 0406. ✨ feat: add export to CSV option
 0728. 🔧 refactor: split large controller into smaller functions
 0223. 🔧 refactor: remove redundant code blocks
+0629. 🔧 refactor: organize models into subfolders
