@@ -370,3 +370,4 @@
 0194. 🎨 style: standardize quote style
 0903. ✅ test: mock database connection in test suite
 0019. ✨ feat: enable dark mode toggle
+0373. 📚 docs: document token refresh logic
