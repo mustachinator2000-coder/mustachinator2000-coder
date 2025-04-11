@@ -385,3 +385,4 @@
 0734. ✨ feat: add export to CSV option
 0254. 🚀 perf: reduce image load time
 0764. ✨ feat: add user authentication
+0233. 🚀 perf: lazy-load components
