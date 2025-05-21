@@ -389,3 +389,4 @@
 0363. 📚 docs: clarify environment setup
 0124. 🎨 style: reformat files with black
 0993. ✨ feat: implement quiz timer feature
+0298. ♻️ chore: update .gitignore
