@@ -391,3 +391,4 @@
 0993. ✨ feat: implement quiz timer feature
 0298. ♻️ chore: update .gitignore
 0342. 🚀 perf: cache repeated calculations
+0415. 🐛 fix: handle 500 error in quiz API
